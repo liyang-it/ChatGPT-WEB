@@ -193,6 +193,7 @@ export default {
             <div class="title">
                 <span class="title md">chatGPT</span>
                 <span class="title md">Demo</span>
+                <img src="https://img.shields.io/github/stars/liyang-it/ChatGPT?style=social" />
             </div>
             <p>
                 技术选型
@@ -219,7 +220,7 @@ export default {
             </p>
             <p>
                 GitHub源码地址👉 <a border-b="" border-dashed="" hover:border-solid=""
-                    href="https://sms-activate.org/cn/info/chatGPT" target="_blank"><b>注册chatGPT详细指南</b></a>
+                    href="https://github.com/liyang-it/ChatGPT" target="_blank"><b>liyang-it/ChatGPT</b></a>
             </p>
             <p>
                 更改秘钥KEY👉 <el-link @click="changeKey"> <b>设置</b></el-link>
@@ -262,7 +263,7 @@ export default {
             <div class="send" v-show="messageStatus === false">
                 <textarea v-model="message" placeholder="尽情提问吧" autocomplete="off" autofocus rows="1"
                     @keyup.enter.native="sendMessage">
-                                                                                                                                                                                                                                </textarea>
+                                                                                                                                                                                                                                    </textarea>
                 <button title="Send" h-12="" px-4="" py-2="" bg-slate="" bg-op-15="" hover:bg-op-20="" text-slate=""
                     rounded-sm="" @click="sendMessage">
                     Send
