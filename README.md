@@ -8,6 +8,16 @@
 ### 桌面端
 ![](https://github.com/liyang-it/ChatGPT/raw/main/public/charGPT-pc.png)
 
+### 下载
+
+![下载](https://github.com/liyang-it/ChatGPT/releases/download/0.0.1/chatGPT_0.0.0_x64_zh-CN.msi)
+
+## 购买ChatGPT账号
+
+可微信联系我购买ChatGPT账号，20一个
+
+![b32d7b5ef11ad898986207490470aaf](https://user-images.githubusercontent.com/47813056/229409762-83fa56ae-d64b-4fa0-b4f0-e3e141feb393.jpg)
+
 ### 技术选型
 
 - Tauri `(https://tauri.app/zh-cn/)`
