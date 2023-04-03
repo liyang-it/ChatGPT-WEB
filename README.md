@@ -2,6 +2,12 @@
 
 ## ChatGPT Demo
 
+### Web端
+![](https://github.com/liyang-it/ChatGPT/raw/main/public/charGPT-web.png)
+
+### 桌面端
+![](https://github.com/liyang-it/ChatGPT/raw/main/public/charGPT-pc.png)
+
 ### 技术选型
 
 - Tauri `(https://tauri.app/zh-cn/)`
